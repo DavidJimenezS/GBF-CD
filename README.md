@@ -22,3 +22,7 @@ cohensKappa.m will generate all the results showed in the paper and also the cha
   This folder contains the KI algorithm, if you used please reference the author (bibtex is on the main code).
   
   1. KI_CD.m Main.
+
+# Canada and California datasets
+
+Please read the data [readme](https://github.com/DavidJimenezS/GBF-CD/tree/master/Data) file.
