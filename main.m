@@ -4,8 +4,8 @@ clc
 
 warning off
 
-addpath(genpath(strcat(pwd,'\Data\'))
-addpath(genpath(strcat(pwd,'\Functions\'))
+addpath(genpath(strcat(pwd,'\Data\')))
+addpath(genpath(strcat(pwd,'\Functions\')))
 
 %--------------------Available datasets-----------------------
 %   sardania_dataset
