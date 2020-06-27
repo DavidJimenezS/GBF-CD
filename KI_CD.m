@@ -19,8 +19,8 @@ clc
 
 warning off
 
-addpath(genpath(strcat(pwd,'\Data\'))
-addpath(genpath(strcat(pwd,'\Functions\'))
+addpath(genpath(strcat(pwd,'\Data\')))
+addpath(genpath(strcat(pwd,'\Functions\')))
 
 %% Initialization
 addpath(genpath('C:\Users\lenoco\Desktop\CD databases'));
