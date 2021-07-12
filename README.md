@@ -9,15 +9,15 @@ cohensKappa.m will generate all the results showed in the paper and also the cha
 Please if you use the datasets and/or the code cite us as:
 
 @article{jimenez2020graph,
-  title={Graph-Based Data Fusion Applied to: Change Detection and Biomass Estimation in Rice Crops},
-  author={Jimenez-Sierra, David Alejandro and Ben{\'\i}tez-Restrepo, Hern{\'a}n Dar{\'\i}o and Vargas-Cardona, Hern{\'a}n Dar{\'\i}o and Chanussot, Jocelyn},
-  journal={Remote Sensing},
-  volume={12},
-  number={17},
-  pages={2683},
-  year={2020},
-  publisher={Multidisciplinary Digital Publishing Institute}
-}
+         title={Graph-Based Data Fusion Applied to: Change Detection and Biomass Estimation in Rice Crops},
+         author={Jimenez-Sierra, David Alejandro and Ben{\'\i}tez-Restrepo, Hern{\'a}n Dar{\'\i}o and Vargas-Cardona, Hern{\'a}n Dar{\'\i}o and Chanussot, Jocelyn},
+         journal={Remote Sensing},
+         volume={12},
+         number={17},
+         pages={2683},
+         year={2020},
+         publisher={Multidisciplinary Digital Publishing Institute}
+        }
 
 
 ### [Unsupervised Heterogeneous change detection (U-HPT-CD) (2019)](https://doi.org/10.1109/TGRS.2019.2930348)
