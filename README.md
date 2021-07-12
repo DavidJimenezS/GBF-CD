@@ -1,5 +1,5 @@
 # GBF-CD
-Graph based fusion for change detection of the "[Graph-Based Data Fusion Applied to: Change Detection and Biomass Estimation in Rice Crops]"(https://www.mdpi.com/2072-4292/12/17/2683) published in MDPI.
+Graph based fusion for change detection of the "[Graph-Based Data Fusion Applied to: Change Detection and Biomass Estimation in Rice Crops](https://www.mdpi.com/2072-4292/12/17/2683)" published in MDPI.
 
 Here you will find all the code used to generate a change map in fourteen cases of study.
 
