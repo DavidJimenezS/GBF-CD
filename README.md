@@ -1,7 +1,7 @@
 # GBF-CD
-Graph based fusion for change detection
+Graph based fusion for change detection of the "[Graph-Based Data Fusion Applied to: Change Detection and Biomass Estimation in Rice Crops]"(https://www.mdpi.com/2072-4292/12/17/2683) published in MDPI.
 
-Here you will find all the code used to generate a change map in eleven cases of study.
+Here you will find all the code used to generate a change map in fourteen cases of study.
 
 gbf_cd.m is the main code that generates the changes map.
 cohensKappa.m will generate all the results showed in the paper and also the change map with respec to FA, MA, P, R, K, OE.
