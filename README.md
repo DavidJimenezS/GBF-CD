@@ -6,17 +6,17 @@ Here you will find all the code used to generate a change map in fourteen cases 
 gbf_cd.m is the main code that generates the changes map.
 cohensKappa.m will generate all the results showed in the paper and also the change map with respec to FA, MA, P, R, K, OE.
 
-Please if you use the datasets and/or the code cite us as:
+Please if you use the datasets and/or the code cite us as:<br/>
 
-@article{jimenez2020graph,
-         title={Graph-Based Data Fusion Applied to: Change Detection and Biomass Estimation in Rice Crops},
-         author={Jimenez-Sierra, David Alejandro and Ben{\'\i}tez-Restrepo, Hern{\'a}n Dar{\'\i}o and Vargas-Cardona, Hern{\'a}n Dar{\'\i}o and Chanussot, Jocelyn},
-         journal={Remote Sensing},
-         volume={12},
-         number={17},
-         pages={2683},
-         year={2020},
-         publisher={Multidisciplinary Digital Publishing Institute}
+@article{jimenez2020graph,<br/>
+         title={Graph-Based Data Fusion Applied to: Change Detection and Biomass Estimation in Rice Crops},<br/>
+         author={Jimenez-Sierra, David Alejandro and Ben{\'\i}tez-Restrepo, Hern{\'a}n Dar{\'\i}o and Vargas-Cardona, Hern{\'a}n Dar{\'\i}o and Chanussot, Jocelyn},<br/>
+         journal={Remote Sensing},<br/>
+         volume={12},<br/>
+         number={17},<br/>
+         pages={2683},<br/>
+         year={2020},<br/>
+         publisher={Multidisciplinary Digital Publishing Institute}<br/>
         }
 
 
