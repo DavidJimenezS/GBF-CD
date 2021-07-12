@@ -8,15 +8,15 @@ cohensKappa.m will generate all the results showed in the paper and also the cha
 
 Please if you use the datasets and/or the code cite us as:<br/>
 
-@article{jimenez2020graph,<br/>
-         title={Graph-Based Data Fusion Applied to: Change Detection and Biomass Estimation in Rice Crops},<br/>
-         author={Jimenez-Sierra, David Alejandro and Ben{\'\i}tez-Restrepo, Hern{\'a}n Dar{\'\i}o and Vargas-Cardona, Hern{\'a}n Dar{\'\i}o and Chanussot, Jocelyn},<br/>
-         journal={Remote Sensing},<br/>
-         volume={12},<br/>
-         number={17},<br/>
-         pages={2683},<br/>
-         year={2020},<br/>
-         publisher={Multidisciplinary Digital Publishing Institute}<br/>
+@article{&nbsp;&nbsp;&nbsp;jimenez2020graph,<br/>
+         &nbsp;&nbsp;&nbsp;title={Graph-Based Data Fusion Applied to: Change Detection and Biomass Estimation in Rice Crops},<br/>
+         &nbsp;&nbsp;&nbsp;author={Jimenez-Sierra, David Alejandro and Ben{\'\i}tez-Restrepo, Hern{\'a}n Dar{\'\i}o and Vargas-Cardona, Hern{\'a}n Dar{\'\i}o and Chanussot, Jocelyn},<br/>
+         &nbsp;&nbsp;&nbsp;journal={Remote Sensing},<br/>
+         &nbsp;&nbsp;&nbsp;volume={12},<br/>
+         &nbsp;&nbsp;&nbsp;number={17},<br/>
+         &nbsp;&nbsp;&nbsp;pages={2683},<br/>
+         &nbsp;&nbsp;&nbsp;year={2020},<br/>
+         &nbsp;&nbsp;&nbsp;publisher={Multidisciplinary Digital Publishing Institute}<br/>
         }
 
 
