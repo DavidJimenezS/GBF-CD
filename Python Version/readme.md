@@ -21,4 +21,4 @@ Please if you use the datasets and/or the code cite us as:<br/>
         
 In addition, you can check the [Requirement](https://github.com/DavidJimenezS/GBF-CD/blob/master/Python%20Version/requirements.txt) file to create an enviroment that runs the code as follows:
 
-"conda create --name <env> --file requirements.txt"
+"conda create --name env_name --file requirements.txt"
