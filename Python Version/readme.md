@@ -19,6 +19,6 @@ Please if you use the datasets and/or the code cite us as:<br/>
          &nbsp;&nbsp;&nbsp;publisher={Multidisciplinary Digital Publishing Institute}<br/>
         }
         
-In addition, you can check the [Requirement](https://github.com/DavidJimenezS/GBF-CD/blob/master/Python%20Version/requirements.txt)) file to create an enviroment that runs the code as follows:
+In addition, you can check the [Requirement](https://github.com/DavidJimenezS/GBF-CD/blob/master/Python%20Version/requirements.txt) file to create an enviroment that runs the code as follows:
 
 "conda create --name <env> --file requirements.txt"
