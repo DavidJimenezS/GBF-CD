@@ -23,7 +23,7 @@ Please if you use the datasets and/or the code cite us as:<br/>
 ### [Unsupervised Heterogeneous change detection (U-HPT-CD) (2019)](https://doi.org/10.1109/TGRS.2019.2930348)
   For code please go to the author's [github](https://github.com/llu025/Heterogeneous_CD) and cite.
 
-###[Thresholding probabilistic methods](https://github.com/DavidJimenezS/Thresholding_methods_for_Change_Detection)
+### [Thresholding probabilistic methods](https://github.com/DavidJimenezS/Thresholding_methods_for_Change_Detection)
   In the repository you will find rR, rrR and KI implementations
    
 
