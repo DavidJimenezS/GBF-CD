@@ -27,14 +27,14 @@ import generate_nystrom_graph as model
 
 data_path = os.path.join(os.path.dirname(os.getcwd()), 'Data') #this apply if you have the same structure as in the github
 
-mat2 = loadmat(os.path.join(data_path, "sardania_dataset.mat"))
+mat2 = loadmat(os.path.join(data_path, "alaska_dataset.mat"))
 t1 = np.array(mat2["before"], dtype=np.float64)
 t2 = np.array(mat2["after"], dtype=np.float64)
 gt = np.array(mat2["gt"], dtype=bool)
 
 #%% Process the data
 
-n_samples = 50
+n_samples = 2
 g_nys = model.GBF_CD(t1, t2, n_samples)
 
 change_map = g_nys.gbf_cd()
